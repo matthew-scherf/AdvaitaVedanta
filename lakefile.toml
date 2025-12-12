@@ -1,0 +1,6 @@
+name = "AdvaitaVedanta"
+version = "5.0.0"
+defaultTargets = ["AdvaitaVedanta"]
+
+[[lean_lib]]
+name = "AdvaitaVedanta"
